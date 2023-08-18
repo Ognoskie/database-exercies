@@ -10,5 +10,5 @@ CREATE TABLE albums (
     release_data INT NOT NULL,
     sales DECIMAL(7,2) NOT NULL,
     genre VARCHAR(100) NOT NULL,
-    PRIMARY KEY (id);
-)
+    PRIMARY KEY (id)
+);
